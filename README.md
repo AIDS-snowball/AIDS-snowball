@@ -1,16 +1,21 @@
-## Hi there 👋
+## 반가워요, 세종대 인공지능데이터사이언스학과 학우 여러분! 👋
 
-<!--
-**AIDS-snowball/AIDS-snowball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+이 계정은 세종대학교 인공지능데이터사이언스학과의 동아리 **snow-ball** 공식 GitHub입니다.
 
-Here are some ideas to get you started:
+snow-ball effect, 일명 눈덩이 효과는 장기적인 안목의 투자로 작은 눈덩이가 비탈을 구르며 주변의 눈들을 집어삼키고 크게 불어나도록 불리는것을 의미하는 용어입니다!  
+저희 동아리또한 다양한 학술 활동을 통해 학습을 하고 성장하는 것을 목표로 하고 있습니다.  
+CS에 대한 이해, 데이터 분석, 머신러닝, 딥러닝을 배울 수 있는 스터디등을 수준에 따라 나누어 진행하고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+또한 위와 같은 활동을 통해 다양한 공모전과 프로젝트를 진행하고자 합니다.  
+다음은 저희 snow-ball이 진행한 프로젝트들입니다.
+
+- 크롤링을 통한 이미지 어뷰징 문제 해결 프레임 워크 개발 및 **논문 작성**
+- 2024년 문화체육관광 데이터 활용대회 **우수상** 수상
+- 2024 데이터 크리에이터 캠프 한국지능정보사회진흥원 원장상 **장려상** 수상
+- 2024 피우다 프로젝트 환경문제 해결을 위한 SW 개발 공모전 참가
+- 2024 문화 디지털혁신 및 문화데이터활용 공모전 참가
+
+앞으로도 저희 snow-ball에서는 많은 활동을 위해 노력하고자 합니다.  
+저희의 활동 내용이 담긴 GitHub도 봐주시면 감사하겠습니다!
+
+문의 : 세종대학교 인공지능데이터사이언스학과의 동아리 snow-ball **인스타그램** 계정으로 DM 주세요 
